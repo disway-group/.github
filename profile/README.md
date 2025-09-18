@@ -1,4 +1,3 @@
-# Disway Group
 ### Desafiando limites, criando futuros.
 
 ---
